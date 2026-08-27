@@ -1,4 +1,4 @@
-v<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Name: STEFFY AAVLIN RAJ F S </h3>
 <h3>Register Number:  212224040330  </h3>
 <H3>Aim:</H3>
